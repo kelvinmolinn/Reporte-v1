@@ -40,12 +40,13 @@ Aplicativo de la vulnerabilidad
 
 
 Referencias:
-www.rapid7.com
-www.exploit-db.com
-www.cvedetails.com
-www.giac.org 
-https://github.com/heltonWernik/OpenLuck
-https://vold3m0rt.medium.com/kioptrix-level-1-285e1ae90162
+-	www.rapid7.com
+-	www.exploit-db.com
+-	www.cvedetails.com
+-	www.giac.org 
+-	https://github.com/heltonWernik/OpenLuck
+-	https://vold3m0rt.medium.com/kioptrix-level-1-285e1ae90162
+
 
 
 
