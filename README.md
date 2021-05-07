@@ -37,6 +37,8 @@ Nombre de las vulnerabilidades explotadas:
 Aplicativo de la vulnerabilidad
 -	VmWare
 -	Máquina Virtual Kioptrix Nivel 1
+
+
 Referencias:
 www.rapid7.com
 www.exploit-db.com
