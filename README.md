@@ -32,6 +32,8 @@ aplicar el parche de seguridad que corrige la vulnerabilidad, tanto en los dispo
 
 Los administradores de Samba ya han arreglado el problema en sus nuevas versiones Samba 4.6.4/4.5.10/4.4.14
 
+# PoC
+
 
 # REFERENCIAS:
 
