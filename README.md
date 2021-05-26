@@ -34,6 +34,10 @@ Los administradores de Samba ya han arreglado el problema en sus nuevas versione
 
 # PoC
 ![imagen 1](./INFOSEC/1.jpeg)
+¡[imagen 2](./INFOSEC/2.jpeg)
+¡[imagen 3](./INFOSEC/3.jpeg)
+¡[imagen 4](./INFOSEC/5.jpeg)
+
 
 # REFERENCIAS:
 
