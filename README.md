@@ -43,6 +43,45 @@ Los administradores de Samba ya han arreglado el problema en sus nuevas versione
 -	https://github.com/heltonWernik/OpenLuck
 -	https://vold3m0rt.medium.com/kioptrix-level-1-285e1ae90162
 
+English Version
+
+# NAME OF THE VULNERABILITIES EXPLOITED
+Violation of the SMB protocol, Attack with OPENLUCK
+
+# CONTENTS:
+Report content and description:
+
+The objective of the attack is to manage to violate our machine in this case KIOPTRIX lv.1, for this we start our kioptrix machine in a local network, in our first phase of the attack we have the following hacking methodology
+
+SMB protocol vulnerability Vulnerability in Samba allows full control of computers, A 7-year-old remote code execution vulnerability was discovered in Samba network software that could allow a remote attacker to take control of the attacked machines
+APPLICATION OR VULNERABLE SYSTEM
+Kioptrix VIrtual Machine Lv.
+
+# REPRODUCTION
+Sweep the network to identify the hosts
+Find the service to exploit and version details: msfconsole
+search / smb
+Run the smb_version module with the command: use auxiliary / scanner / smb / smb_version
+once the version of the SMB protocol is obtained, we proceed to obtain and establish the connection with the protocol
+Exploit and list vulnerabilities in our penetration test
+Access the metasploit console in the trans2Open module
+Run the trans2open module
+commit the machine with the data obtained through the module
+
+# IMPACT
+Being able to penetrate the vulnerabilities found, through the escalation of privileges in order to compromise the application data such as: Users, passwords, database, emails ...
+
+# MITIGATION
+apply the security patch that corrects the vulnerability, both on client devices and on the server to prevent possible attackers from using it
+
+Samba administrators have already fixed the problem in their new Samba 4.6.4 / 4.5.10 / 4.4.14 versions
+
+
+# REFERENCE
+
+- https://github.com/heltonWernik/OpenLuck
+-	https://vold3m0rt.medium.com/kioptrix-level-1-285e1ae90162
+
 
 
 
