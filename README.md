@@ -25,6 +25,11 @@ Maquina VIrtual Kioptrix Lv.
 # IMPACTO
 Poder penetrar las vulnerabilidades encontradas, a traves del escalamiento de privilegios para asi poder comprometer los datos del aplicativo tales como: Usuarios, contraeñas, base de datos, correos electronicos...
 
+# MITIGACIÓN
+
+aplicar el parche de seguridad que corrige la vulnerabilidad, tanto en los dispositivos cliente, como en el servidor para evitar que posibles atacantes puedan hacer uso de la misma.
+
+
 # REFERENCIAS:
 
 -	https://github.com/heltonWernik/OpenLuck
