@@ -7,6 +7,7 @@ Contenido y descripción del reporte:
 
 El objetivo del ataque es lograr vulnerar nuestra maquina en este caso KIOPTRIX lv.1 , para ello arrancamos nuestra maquina kioptrix en un red local, en nuestra primera fase del ataque tenemos la siguiente metodología de hacking 
 1.	Vulneración a prtocolo SMB
+Vulnerabilidad en Samba permite el control total de los equipos,Una vulnerabilidad de ejecución remota de código de 7 años de antigüedad fue descubierta en el software de red Samba que podría permitir a un atacante remoto tomar el control de las máquinas atacadas
 
 # APLICATIVO O SISTEMA VULNERABLE
 Maquina VIrtual Kioptrix Lv.
@@ -27,7 +28,9 @@ Poder penetrar las vulnerabilidades encontradas, a traves del escalamiento de pr
 
 # MITIGACIÓN
 
-aplicar el parche de seguridad que corrige la vulnerabilidad, tanto en los dispositivos cliente, como en el servidor para evitar que posibles atacantes puedan hacer uso de la misma.
+aplicar el parche de seguridad que corrige la vulnerabilidad, tanto en los dispositivos cliente, como en el servidor para evitar que posibles atacantes puedan hacer uso de la misma
+
+Los administradores de Samba ya han arreglado el problema en sus nuevas versiones Samba 4.6.4/4.5.10/4.4.14
 
 
 # REFERENCIAS:
