@@ -43,7 +43,9 @@ Los administradores de Samba ya han arreglado el problema en sus nuevas versione
 -	https://github.com/heltonWernik/OpenLuck
 -	https://vold3m0rt.medium.com/kioptrix-level-1-285e1ae90162
 
-English Version
+
+
+## ENGLISH VERSION
 
 # NAME OF THE VULNERABILITIES EXPLOITED
 Violation of the SMB protocol, Attack with OPENLUCK
