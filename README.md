@@ -1,5 +1,5 @@
 # REPORTE DE VULNERABILIDADES EN KIOPTRIX
-#NOMBRE DE LAS VULNERABILIDADES EXPLTADAS
+# NOMBRE DE LAS VULNERABILIDADES EXPLOTADAS
 Vulneración al protocolo SMB, Ataque con OPENLUCK
 
 # CONTENIDO:
@@ -8,10 +8,10 @@ Contenido y descripción del reporte:
 El objetivo del ataque es lograr vulnerar nuestra maquina en este caso KIOPTRIX lv.1 , para ello arrancamos nuestra maquina kioptrix en un red local, en nuestra primera fase del ataque tenemos la siguiente metodología de hacking 
 1.	Vulneración a prtocolo SMB
 
-#Aplicativo o Sistema Vulnerable
+# APLICATIVO O SISTEMA VULNERABLE
 Maquina VIrtual Kioptrix Lv.
 
-#Reproducción
+# REPRODUCCIÓN
 1. Hacer un barrido a la red para identificar los host 
 2. Encontrar el servicio a explotar y detalles de la version : msfconsole
 3. search/smb 
@@ -22,10 +22,10 @@ Maquina VIrtual Kioptrix Lv.
 8.  Ejecutar el MOdulo trans2open
 9.  comprometer la maquina con los datos obtenidos atraves del módulo
 
-#Impacto
+# IMPACTO
 Poder penetrar las vulnerabilidades encontradas, a traves del escalamiento de privilegios para asi poder comprometer los datos del aplicativo tales como: Usuarios, contraeñas, base de datos, correos electronicos...
 
-Referencias:
+# REFERENCIAS:
 
 -	https://github.com/heltonWernik/OpenLuck
 -	https://vold3m0rt.medium.com/kioptrix-level-1-285e1ae90162
